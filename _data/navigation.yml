@@ -1,7 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Example Page
-    url: /example-page/
   - title: e-Info
     url: /permalink
     sublinks:
