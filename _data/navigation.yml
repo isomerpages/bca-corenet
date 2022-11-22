@@ -7,3 +7,19 @@ links:
         url: /permalink
       - title: Circulars
         url: /permalink
+  - title: e-Submissions
+    url: /permalink
+    sublinks:
+      - title: CORENET e-Submission
+        url: /permalink
+      - title: CORENET BIM e-Submission
+        url: /permalink
+  - title: BIM Guides
+    url: /permalink
+    sublinks:
+      - title: Singapore BIM Guides
+        url: /permalink
+      - title: BIM Essential Guides
+        url: /permalink
+  - title: About Us
+    url: /permalink
