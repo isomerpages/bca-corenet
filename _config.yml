@@ -51,4 +51,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d22c1iyn3kj3w9.amplifyapp.com
 prod: https://master.d22c1iyn3kj3w9.amplifyapp.com
-resources_name: bca-circulars
+resources_name: circulars
