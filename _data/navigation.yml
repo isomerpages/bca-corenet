@@ -1,7 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /permalink
   - title: Circulars
     resource_room: true
   - title: e-Submissions
