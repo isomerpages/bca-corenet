@@ -1,4 +1,5 @@
 collections:
   e-submission:
     output: true
-    order: []
+    order:
+      - CORENET eSubmission System.md
