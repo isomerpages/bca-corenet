@@ -4,5 +4,5 @@ collections:
     order:
       - mainpage.md
       - subpage.md
-      - Resourcefolder/main resource page.md
+      - Resourcefolder/bcaa.md
       - Resourcefolder/.keep
