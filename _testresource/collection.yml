@@ -1,0 +1,4 @@
+collections:
+  testresource:
+    output: true
+    order: []
