@@ -1,7 +1,11 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: CORENET e-Information is a central repository for building codes,
+  regulations and circulars published by the various building and construction
+  regulatory agencies in Singapore.
+description: CORENET e-Information is a central repository for building codes,
+  regulations and circulars published by the various building and construction
+  regulatory agencies in Singapore.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -15,3 +19,4 @@ sections:
       button: Contact Us
       url: /contact-us/
 ---
+
