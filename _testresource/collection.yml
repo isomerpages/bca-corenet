@@ -2,4 +2,5 @@ collections:
   testresource:
     output: true
     order:
+      - Resourcefolder/.keep
       - main resource page.md
