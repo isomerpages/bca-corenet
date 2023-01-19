@@ -1,0 +1,4 @@
+collections:
+  e-submission:
+    output: true
+    order: []
