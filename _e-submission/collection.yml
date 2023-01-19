@@ -2,4 +2,5 @@ collections:
   e-submission:
     output: true
     order:
+      - CORENET BIM eSubmission.md
       - CORENET eSubmission System.md
