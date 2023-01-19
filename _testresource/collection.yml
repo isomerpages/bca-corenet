@@ -1,9 +1,0 @@
-collections:
-  testresource:
-    output: true
-    order:
-      - mainpage.md
-      - subpage.md
-      - Resourcefolder/ltaa.md
-      - Resourcefolder/bcaa.md
-      - Resourcefolder/.keep
