@@ -25,3 +25,5 @@ links:
     url: /permalink
   - title: Contact Us
     url: /permalink
+  - title: CIRCULARS
+    resource_room: true
