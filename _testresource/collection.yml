@@ -2,6 +2,7 @@ collections:
   testresource:
     output: true
     order:
+      - mainpage.md
       - subpage.md
       - Resourcefolder/main resource page.md
       - Resourcefolder/.keep
