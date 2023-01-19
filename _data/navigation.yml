@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
   - title: e-Info
-    url: /main-resource
+    url: /bimsubmissionguide
     sublinks:
       - title: Events
         url: /permalink
