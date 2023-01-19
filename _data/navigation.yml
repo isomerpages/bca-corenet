@@ -20,3 +20,5 @@ links:
     url: /permalink
   - title: CIRCULARS
     resource_room: true
+  - title: test resource
+    collection: testresource
