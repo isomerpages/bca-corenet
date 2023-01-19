@@ -2,4 +2,4 @@ collections:
   testresource:
     output: true
     order:
-      - example-page.md
+      - main resource page.md
