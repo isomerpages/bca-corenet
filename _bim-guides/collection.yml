@@ -1,0 +1,6 @@
+collections:
+  bim-guides:
+    output: true
+    order:
+      - BIM Essential Guides.md
+      - Singapore BIM Guides.md
